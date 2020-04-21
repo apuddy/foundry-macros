@@ -1,0 +1,1 @@
+canvas.scene.deleteEmbeddedEntity("MeasuredTemplate", canvas.scene.data.templates.map(t => t._id), {});
